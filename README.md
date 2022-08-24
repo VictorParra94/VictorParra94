@@ -1,5 +1,5 @@
 # Prazer, sou Victor, seja bem vindo ao meu perfil.
-Estudante de Engenharia de Software e Analise e Desenvolvimento de Sistemas.
+Estudante de Engenharia de Software e Analise e Desenvolvimento de Sistemas.               
 Formado Tecnico em Mecatronica pelo Senai, Atuando ha 10 anos na area de automação industrial.
 
 ## Languages
