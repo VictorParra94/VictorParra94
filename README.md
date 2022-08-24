@@ -1,5 +1,6 @@
 # Prazer, sou Victor, seja bem vindo ao meu perfil.
 Estudante de Engenharia de Software e Analise e Desenvolvimento de Sistemas.
+Formado Tecnico em Mecatronica pelo Senai, Atuando ha 10 anos na area de automação industrial.
 
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
